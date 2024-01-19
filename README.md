@@ -20,4 +20,4 @@ Andere Kolben mit 1000 ml Fassungsvermögen von [deutschen Versandhändlern](htt
 
 Polycarbonat mit 0,75 mm Stärke und in Zuschnitten z.B. von 50 cm im Quadrat gibt es etwa bei [eBay](https://www.ebay.de/itm/164248987217). Andere Kunststoffe sollten ebenfalls gehen. Wichtig ist, dass sie hochtransparent und gut zuzuschneiden sind. Je nach Gefäß spielt es eine größere oder eine untergeordnete Rolle, wie leicht sich der Kunststoff biegen lässt: Um in einen Enghals-Erlenmeyerkolben reinzukommen, muss er flexibler sein, in eine Glasglocke bekommt man hingegen auch eine dickere Acrylglasplatte hinein. 
 
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 1/24](https://www.heise.de/select/make/2024/1/2334113395416761993)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 2/24]()**.
